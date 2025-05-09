@@ -65,7 +65,7 @@
       </form>
     </div>
     <br><br>
-    <img class="Calculate" src="images/positive_negative.jpg" alt="Tempurature">
+    <img class="Calculate" src="images/divtoin.jpg" alt="Divitoin">
   </div>
 </body>
 
